@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerViewWithSpinnerAndAsyncTask</string>
+    <string name="all">Все</string>
+    <string name="week_num">Неделя %1$d</string>
+
+    <string-array name="group_status">
+        <item>Без группировки</item>
+        <item>С группировкой</item>
+    </string-array>
+</resources>
